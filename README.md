@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Soy Desarrollador Web Frontend ReactJS<br>🔭 Estoy trabajando en Proyecyos Propios<br>🌱 Estoy aprendiendo Desarrollo Backend con Express y MongoDB<br>💬 Puedes preguntarme acerca de HTML, CSS, SCSS, Javascript y ReactJS<br>
+⚡ Soy Desarrollador Web Frontend ReactJS<br>🔭 Estoy trabajando en Proyectos Propios<br>🌱 Estoy aprendiendo Desarrollo Backend con Express y MongoDB<br>💬 Puedes preguntarme acerca de HTML, CSS, SCSS, Javascript y ReactJS<br>
 
 
 ## 🌐 Socials:
