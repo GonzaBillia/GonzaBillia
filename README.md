@@ -138,16 +138,33 @@ I'm currently focused on improving my skills in:
 
 ---
 
-## GitHub stats
+## Engineering workflow
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gonzabillia&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzabillia&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+Beyond application code, I also worked on improving the development workflow across microservice repositories by introducing **agentic development practices**, repository-level rules, and reusable skills to standardize how teams analyze, implement, test, and document changes.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gonzabillia&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+This included defining structured guidance for AI-assisted development workflows, helping keep consistency across repositories, reducing context loss, and improving the way technical decisions, coding patterns, testing expectations, and documentation practices are followed during development.
+
+Areas covered:
+
+- Repository-level rules for consistent development practices.
+- Skills and prompts for AI-assisted coding, testing, documentation, and review workflows.
+- Standardized guidance for backend architecture, use cases, tests, and integrations.
+- Documentation-oriented workflows to preserve project context and decision traces.
+- Support for team collaboration across multiple microservices with shared engineering standards.
+
+---
+
+## Public work note
+
+Most of my production experience was developed in private company repositories, especially around microservices, authentication, notifications, integrations, observability, and internal business systems.
+
+For that reason, this GitHub profile focuses on:
+
+- Personal projects.
+- Demo repositories.
+- Architecture experiments.
+- QA automation examples.
+- Backend and microservice patterns inspired by real-world experience, without exposing private company code or sensitive information.
 
 ---
 
